@@ -1,4 +1,4 @@
 body {
-    background: url("anothertest/photo.jpeg");
+    background: url("/anothertest/photo.jpeg");
     background-repeat: no-repeat
 }
